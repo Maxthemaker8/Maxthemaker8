@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maxthemaker8
 - 👀 I’m interested in ... landing a junior developer position this year.
 - 🌱 I’m currently learning ... the basics (HTML, CSS, and JS) as well as the MERN stack. I've mostly got the basics down pretty solidly but am always learning/refreshing to strengthen my foundation.
-- 💞️ I’m looking to collaborate on ... anything interesting. Projects for my portfolio. 
+- 💞️ I’m looking to collaborate on ... anything interesting/projects for my portfolio. 
 - 📫 How to reach me ... Maxthemaker8@gmail.com
 
 <!---
